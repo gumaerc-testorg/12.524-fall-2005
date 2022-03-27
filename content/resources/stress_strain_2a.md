@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6c1611e4-16dc-ac4c-a120-97c2aaa685b7
 resourcetype: Document
 title: stress_strain_2a.pdf
 uid: 95e1fffe-7fb6-6aed-a9e1-7ca7316bec93

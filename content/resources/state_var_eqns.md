@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6c1611e4-16dc-ac4c-a120-97c2aaa685b7
 resourcetype: Document
 title: state_var_eqns.pdf
 uid: c80a8f8b-8458-4659-9384-0af28e6c4350

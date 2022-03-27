@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6c1611e4-16dc-ac4c-a120-97c2aaa685b7
 resourcetype: Document
 title: l10c_lefm_dyke_s.pdf
 uid: bcca7d33-0882-2f6b-d2c2-044c76e4a89e

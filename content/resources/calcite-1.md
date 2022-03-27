@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f6466739-950d-cfb8-ec42-3e784cbdb89b
 resourcetype: Document
 title: calcite.pdf
 uid: bee26468-7830-8148-fdae-867ecf1fcd53

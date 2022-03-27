@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6c1611e4-16dc-ac4c-a120-97c2aaa685b7
 resourcetype: Document
 title: l4_5fric_rock_09_26.pdf
 uid: 72fa1e99-4656-a841-ecd6-846a0ff65e4d

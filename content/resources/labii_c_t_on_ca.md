@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f6466739-950d-cfb8-ec42-3e784cbdb89b
 resourcetype: Document
 title: labII_c_t_on_ca.pdf
 uid: d82382e7-a959-cb46-03f5-21be006e54f0

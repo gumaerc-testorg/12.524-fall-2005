@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f6466739-950d-cfb8-ec42-3e784cbdb89b
 resourcetype: Image
 title: quartz.tif
 uid: 3cccf93c-fbd1-cb51-99e3-fd9482d2a55a
