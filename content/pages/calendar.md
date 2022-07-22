@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: The calendar section contains topics and keydates listed according to
+  weeks.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: a01be4da-5ef7-b317-3d61-5766cc3ed1b8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

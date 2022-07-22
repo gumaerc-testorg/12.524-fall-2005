@@ -1,8 +1,8 @@
 ---
 content_type: resource
-description: Supporting file for Lab 1.
-file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/bee2646878308148fdae867ecf1fcd53_calcite.pdf
-file_type: application/pdf
+description: Supporting text file for Lab 2.
+file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/d729f3cc255d59bc7e8e17c29676bb4c_CarraraMarble_rheology.txt
+file_type: text/plain
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -10,12 +10,12 @@ ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 parent_uid: f6466739-950d-cfb8-ec42-3e784cbdb89b
-resourcetype: Document
-title: calcite.pdf
-uid: bee26468-7830-8148-fdae-867ecf1fcd53
+resourcetype: Other
+title: CarraraMarble_rheology.txt
+uid: d729f3cc-255d-59bc-7e8e-17c29676bb4c
 video_files:
   video_thumbnail_file: null
 video_metadata:
   youtube_id: null
 ---
-Supporting file for Lab 1.
+Supporting text file for Lab 2.
