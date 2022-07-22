@@ -6,6 +6,7 @@ file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/a7081d4f28f80460d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains lecture on linear elastic fracture mechanics and dyke propogation with resource reading and bibliography.
-

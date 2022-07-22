@@ -6,6 +6,7 @@ file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/579a26d41149d1368
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 The first lab assignment consists of a series of three exercises related to image analysis.
-

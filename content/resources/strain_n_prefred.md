@@ -7,6 +7,7 @@ file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/7a39368f43b57bc3c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource discusses about strain during glide, inclined slip plane, strain elements from glide, strain and rotation, independent slip systems, strain from climb, Taylor-von mises criterion, etc.
-

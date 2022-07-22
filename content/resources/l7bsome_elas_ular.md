@@ -9,6 +9,7 @@ file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/8380d3bd557e10ecc
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -23,4 +24,3 @@ video_metadata:
 ---
 This file contains lecture on elasticity of rocks, exact elastic treatment of simple geometry, basic equations of isotropic elasiticity, elasticity in problems with cylindrical and spherical symmetry
 with examples and pore compressibility.
-

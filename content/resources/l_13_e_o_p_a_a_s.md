@@ -8,6 +8,7 @@ file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/3606d68710282a039
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains lecture on brittle fracture and sliding summary with the help of general resources, pore fluid effects, physical pore fluid effects, law of effective stress, fracture tests, transiently undrained and dilatancy hardening, chemical pore fluid effects and bibliography.
-
