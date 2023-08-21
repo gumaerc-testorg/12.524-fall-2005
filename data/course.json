@@ -39,8 +39,10 @@
     "website": "12-524-mechanical-properties-of-rocks-fall-2005"
   },
   "learning_resource_types": [
-    "Lecture Notes"
+    "Lecture Notes",
+    "Problem Sets"
   ],
-  "site_uid": "d526318a-397a-41a3-abd3-e96568368ba0",
+  "site_uid": "40b16ea9-086f-4dbf-b9ff-c73336ddfb29",
+  "short_id": "12.524-fall-2005",
   "title": "Course Metadata"
 }
