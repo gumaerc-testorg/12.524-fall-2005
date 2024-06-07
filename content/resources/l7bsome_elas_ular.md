@@ -6,6 +6,7 @@ description: 'This file contains lecture on elasticity of rocks, exact elastic t
 
   with examples and pore compressibility.'
 file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/8380d3bd557e10ecca9da4fae908ff33_l7bsome_elas_ular.pdf
+file_size: 149792
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

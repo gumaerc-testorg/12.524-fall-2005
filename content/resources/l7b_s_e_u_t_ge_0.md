@@ -4,6 +4,7 @@ description: This file contains lecture on elasticity of rocks, exact elastic tr
   of simple geometry, basic equations of isotropic elasiticity, elasticity in problems
   with cylindrical and spherical symmetry with examples and pore compressibility.
 file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/5391822762bde05dbaa14091808aaaef_l7b_s_e_u_t_ge_0.pdf
+file_size: 149792
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

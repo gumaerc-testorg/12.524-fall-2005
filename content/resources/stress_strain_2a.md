@@ -3,6 +3,7 @@ content_type: resource
 description: This resource discusses the topic stress, shear moments and symmetry,
   forms of stress, and stress tensor.
 file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/95e1fffe7fb66aeda9e17ca7316bec93_stress_strain_2a.pdf
+file_size: 663520
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

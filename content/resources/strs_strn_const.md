@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This file contains notes for the topic: Stress Strain Strength profiles.'
 file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/41dfd3a71345a316d95e208a21f888ac_strs_strn_const.pdf
+file_size: 1570529
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
