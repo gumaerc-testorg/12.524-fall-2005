@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting file for Lab 1.
 file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/bee2646878308148fdae867ecf1fcd53_calcite.pdf
+file_size: 63124
 file_type: application/pdf
 learning_resource_types:
 - Assignments

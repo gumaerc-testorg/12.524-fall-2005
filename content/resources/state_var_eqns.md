@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/c80a8f8b8458465993840af28e6c4350_state_var_eqns.pdf
+file_size: 242140
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

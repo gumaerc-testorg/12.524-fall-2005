@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains lecture on surface energy and capillarity forces and
   Llaplace's equation.
 file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/3508f4793319f04b66a3dd83d7cc7e92_l9a_s_t_ll_10_05.pdf
+file_size: 107906
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
