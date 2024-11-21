@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains notes for the topic: Brittle Fracture and Sliding
   Summary.'
-file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/3394535178c3b12709df92150cee77d7_l13eff_por_actsl.pdf
+file: /ol-ocw-studio-app/courses/12-524-mechanical-properties-of-rocks-fall-2005/3394535178c3b12709df92150cee77d7_l13eff_por_actsl.pdf
 file_size: 197350
 file_type: application/pdf
 learning_resource_types:
