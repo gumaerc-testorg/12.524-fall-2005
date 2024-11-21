@@ -3,7 +3,7 @@ content_type: resource
 description: Using the Paterson gas-medium apparatus, students will measure axial
   load, axial displacement, and determine the Young?s modulus, yield strength of an
   intact rock core specimen.
-file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/74c1eac622b6ccbb9dfa2082df1038e7_labii_com_tescar.pdf
+file: /ol-ocw-studio-app/courses/12-524-mechanical-properties-of-rocks-fall-2005/74c1eac622b6ccbb9dfa2082df1038e7_labii_com_tescar.pdf
 file_size: 131825
 file_type: application/pdf
 learning_resource_types:

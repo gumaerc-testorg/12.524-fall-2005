@@ -4,7 +4,7 @@ description: 'This file contains lecture on readings for lecture, background, de
   mechanisms, deformation modes,
 
   scaling, reading assignment and bibliography.'
-file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/3a19e485163f76e96fea35286c955f9b_l1mech_mode_scal.pdf
+file: /ol-ocw-studio-app/courses/12-524-mechanical-properties-of-rocks-fall-2005/3a19e485163f76e96fea35286c955f9b_l1mech_mode_scal.pdf
 file_size: 24750
 file_type: application/pdf
 learning_resource_types:
