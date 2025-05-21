@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/12-524-mechanical-properties-of-rocks-fall-2005/7f02acef6b0534368ca7c47d61180675_problem_set_1.pdf
+file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/7f02acef6b0534368ca7c47d61180675_problem_set_1.pdf
 file_size: 11714
 file_type: application/pdf
 learning_resource_types:

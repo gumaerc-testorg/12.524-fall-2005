@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses about burgers vectors sf/RH, dislocation line
   vectors, dislocation reactions, slip planes, and dislocation slip systems in minerals.
-file: /ol-ocw-studio-app/courses/12-524-mechanical-properties-of-rocks-fall-2005/31b61c59ff7b5eee67309ae9a235d510_disloc_geometry.pdf
+file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/31b61c59ff7b5eee67309ae9a235d510_disloc_geometry.pdf
 file_size: 407638
 file_type: application/pdf
 learning_resource_types:
