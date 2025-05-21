@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/12-524-mechanical-properties-of-rocks-fall-2005/3cccf93cfbd1cb5199e3fd9482d2a55a_quartz.tif
+file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/3cccf93cfbd1cb5199e3fd9482d2a55a_quartz.tif
 file_size: 1957496
 file_type: image/tiff
 image_metadata:
