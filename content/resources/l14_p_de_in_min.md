@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains lecture on introduction on deformation mechanism maps,
   defects, point defects in minerals, point defects in polyatomic solids and bibliography.
-file: /ol-ocw-studio-app/courses/12-524-mechanical-properties-of-rocks-fall-2005/510adc800055cbcbee79fa0de843aecd_l14_p_de_in_min.pdf
+file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/510adc800055cbcbee79fa0de843aecd_l14_p_de_in_min.pdf
 file_size: 222857
 file_type: application/pdf
 learning_resource_types:

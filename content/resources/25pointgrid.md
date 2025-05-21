@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for Lab 1.
-file: /ol-ocw-studio-app/courses/12-524-mechanical-properties-of-rocks-fall-2005/edcf583e571e9be17a001bd1659dc669_25pointgrid.pdf
+file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/edcf583e571e9be17a001bd1659dc669_25pointgrid.pdf
 file_size: 12751
 file_type: application/pdf
 learning_resource_types:

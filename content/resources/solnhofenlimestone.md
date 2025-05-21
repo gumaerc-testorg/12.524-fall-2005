@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/12-524-mechanical-properties-of-rocks-fall-2005/957290fa683ab8484ae694c3e3e23f2a_SolnhofenLimestone.txt
+file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/957290fa683ab8484ae694c3e3e23f2a_SolnhofenLimestone.txt
 file_size: 20716
 file_type: text/plain
 learning_resource_types:
