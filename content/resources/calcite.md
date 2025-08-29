@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/a77530e3c22285c54e9b560ef3ac900d_calcite.tif
+file: /ol-ocw-studio-app/courses/12-524-mechanical-properties-of-rocks-fall-2005/a77530e3c22285c54e9b560ef3ac900d_calcite.tif
 file_size: 922457
 file_type: image/tiff
 image_metadata:

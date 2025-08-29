@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains lecture on Fick?s first law: driving force.'
-file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/89528b59fc1f0c75ce8261a0f108f998_diff_cr_in_mo_so.pdf
+file: /ol-ocw-studio-app/courses/12-524-mechanical-properties-of-rocks-fall-2005/89528b59fc1f0c75ce8261a0f108f998_diff_cr_in_mo_so.pdf
 file_size: 880477
 file_type: application/pdf
 learning_resource_types:

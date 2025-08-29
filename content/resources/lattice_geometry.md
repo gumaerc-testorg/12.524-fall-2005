@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses about lattice points, crystal basis, and crystal
   lattices.
-file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/02a7b11235075325ecc153de1ba111ad_lattice_geometry.pdf
+file: /ol-ocw-studio-app/courses/12-524-mechanical-properties-of-rocks-fall-2005/02a7b11235075325ecc153de1ba111ad_lattice_geometry.pdf
 file_size: 542646
 file_type: application/pdf
 learning_resource_types:
