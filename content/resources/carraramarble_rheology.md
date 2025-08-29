@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting text file for Lab 2.
-file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/d729f3cc255d59bc7e8e17c29676bb4c_CarraraMarble_rheology.txt
+file: /ol-ocw-studio-app/courses/12-524-mechanical-properties-of-rocks-fall-2005/d729f3cc255d59bc7e8e17c29676bb4c_CarraraMarble_rheology.txt
 file_size: 74829
 file_type: text/plain
 learning_resource_types:
